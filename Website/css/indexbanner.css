@@ -1,0 +1,222 @@
+/*-- banner --*/
+.banner-agile{
+	background:url(../images/indexbanner.jpg) no-repeat 0px -150px;
+	background-size:cover;
+	min-height:690px;
+	padding-top:50px;
+}
+.banner-text-agileinfo {
+       background: hsla(14, 100%, 57%, 0.75);
+    padding: 30px;
+    margin: 14% 0 0 52%;
+    width: 30%;
+}
+.banner-text-agileinfo  h2{
+	color:#fff;
+	font-size:30px;
+	text-align:left;
+	margin-bottom:20px;
+}
+.banner-text-agileinfo  p{
+	font-size:14px;
+	color:#eee;
+	line-height:28px;
+}
+/*-- /banner --*/
+
+@media(max-width:800px){
+	.banner-agile {
+		background: url(../images/indexbanner.jpg) no-repeat 0px -90px;
+		background-size: cover;
+		min-height: 370px;
+	}
+	.banner-text-agileinfo {
+		margin: 8% 0 0 45%;
+		width:46%;
+	}
+}
+
+@media(max-width:667px){
+	.banner-agile {
+		background: url(../images/indexbanner.jpg) no-repeat 0px -61px;
+		background-size: cover;
+		min-height: 360px;
+	}
+	.banner-text-agileinfo {
+		margin: 3% 0 0 36%;
+		width: 59%;
+	}
+	p.top-p {
+		width: 86%;
+	}
+	.about-left {
+		min-height: 323px;
+	}
+	.w3layouts-agileits input[type="text"], .w3layouts-agileits input[type="email"] {
+		width: 48%;
+	}
+	.agile_team_grid_main .p-mask {
+		padding: 7.5em 0;
+	}
+	.agile_team_grid1 h4 {
+		font-size: 1.3em;
+	}
+}
+@media(max-width:640px){
+	.banner-agile {
+		background: url(../images/indexbanner.jpg) no-repeat 0px -61px;
+		background-size: cover;
+		min-height: 355px;
+	}
+	p.top-p {
+		width: 95%;
+	}
+	.about-left {
+		min-height: 305px;
+	}
+	.services-grids-w3l {
+		padding: 0 5px;
+	}
+	ul.social-icons li a .fa {
+		padding: 8px 12px;
+	}
+	.agile_team_grid_main .p-mask {
+		padding: 7em 0;
+	}
+	.flex-active-slide p {
+		width: 91%;
+	}
+	.contact-left {
+		width: 100%;
+		float: left;
+		margin-bottom:20px;
+	}
+	.contact-right {
+		width: 100%;
+		float: left;
+	}
+	.agile_team_grid1 p {
+		font-size: 13px;
+	}
+	.flex-active-slide p {
+		width: 100%;
+	}
+	.w3layouts-agileits input[type="text"], .w3layouts-agileits input[type="email"] {
+		width: 48.7%;
+	}
+}
+@media(max-width:600px){
+	.banner-agile {
+		background: url(../images/indexbanner.jpg) no-repeat 0px -38px;
+		background-size: cover;
+		min-height: 350px;
+	}
+	.banner-text-agileinfo {
+		margin: 4% 0 0 34%;
+		width: 61%;
+	}
+	.banner-text-agileinfo h2 {
+		margin-bottom: 10px;
+	}
+	.about-agileits, .services-w3, .clients, .team, .contact-wthree, .gallery, .skills-w3ls {
+		padding: 35px 0;
+	}
+	.about-agileits h3, .services-w3 h3, .clients h3, .team h3, .contact-wthree h3, .gallery h3, .skills-w3ls h3 {
+		font-size: 25px;
+	}
+	.about-left {
+		min-height: 278px;
+	}
+	canvas {
+		height: 110px;
+		width: 110px;
+	}
+}
+@media(max-width:568px){
+	.banner-agile {
+		background: url(../images/indexbanner.jpg) no-repeat 0px -20px;
+		background-size: cover;
+		min-height: 345px;
+	}
+	.banner-text-agileinfo {
+		padding: 20px;
+	}
+	.banner-text-agileinfo {
+		margin: 6% 0 0 34%;
+	}
+	label.line {
+		width: 9%;
+	}
+	p.top-p {
+		width: 100%;
+	}
+	.about-left {
+		min-height: 257px;
+	}
+	.services-grids-w3l {
+		padding: 0 8px;
+	}
+	canvas {
+		height: 100px;
+		width: 100px;
+	}
+	.gallery-grids {
+		width: 50%;
+		float: left;
+	}
+	.agile_team_grid {
+		padding: 0 10px;
+	}
+	.agile_team_grid1 h4 {
+		font-size: 1.2em;
+	}
+	.w3layouts-agileits input[type="text"], .w3layouts-agileits input[type="email"] {
+		width: 48.5%;
+	}
+}
+@media(max-width:480px){
+	.nav-links .navbar-inverse .navbar-brand h1 {
+		font-size: 25px;
+	}
+	.banner-text-agileinfo p {
+		font-size: 13px;
+		line-height: 25px;
+	}
+	.banner-agile {
+		background: url(../images/indexbanner.jpg) no-repeat 0px 0px;
+		background-size: cover;
+		min-height: 295px;
+	}
+	.banner-text-agileinfo {
+		margin: 0% 0 0 34%;
+	}
+	.about-left {
+		min-height: 198px;
+	}
+	.services-grids-w3l {
+		padding: 0 15px;
+		width: 100%;
+	}
+	.services-grids-w3l:nth-child(5) {
+		margin:25px 0;
+	}
+	canvas {
+		height: 84px;
+		width: 84px;
+	}
+	.agile_team_grid {
+		width: 55%;
+		float: none;
+		padding: 0 15px;
+		margin:0 auto;
+	}
+	.agile2{
+		margin:25px auto;
+	}
+	.agile_team_grid_main .p-mask {
+		padding: 6em 0;
+	}
+	.w3layouts-agileits input[type="text"], .w3layouts-agileits input[type="email"] {
+		width: 48.3%;
+	}
+}
