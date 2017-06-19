@@ -1,19 +1,22 @@
-{ Spieler :
+{ "Spieler" :
 	[
 	 {
 		"name": "Rebekka",
 	   	"rolle": "Spielleiter",
-	  	"spielstil": "ambiente, story, erzählerisch",
-		"spielt seit": " 2010"
-		"regelsysteme":"DSA 4.1"
+	  	"spielstil": ["ambiente", "story", "erzählerisch"],
+		"spielt seit": " 2010",
+		"regelsysteme":"DSA 4.1",
 		"Lieblingsgenre": "als Spieler Intrigen, als Spielleiter Entdeckerkampagnen",
 		"Lieblingshelden": "als Spieler meist analysierende düstere Schwarzmagier und Nandusgeweihte, als Spielleiter gern tollpatschige, gutgläubige Wirte und überhebliche Horasier"
-	
+	},
 	{	
 		"name": "",
 	   	"rolle": "",
-	  	"spielstil": "",
-		"spielt seit": ""
-		"regelsysteme":""
+	  	"spielstil": [],
+		"spielt seit": "",
+		"regelsysteme":"",
 		"Lieblingsgenre": "",
-		"Lieblingshelden": "",	
+		"Lieblingshelden": ""
+		}
+	]
+}

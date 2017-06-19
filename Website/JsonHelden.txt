@@ -1,0 +1,36 @@
+{"helden":
+	[
+		{"name":"",
+		 "geburtsdatum":"",
+		 "professionen":[{"grundprofession":"",
+				  "varianten":[]
+				 }],
+		 "kultur":{"grundkultur":"",
+			   "varianten":[]},
+		 "rasse":{"grundrasse":"",
+			  "varianten":[]},
+		 "titel":[],
+		 "stand":"",
+		 "familie":{"familienstand":"",
+					"verheiratet/liiert mit":"",
+					"eltern": [],
+					"geschwister":[],
+					"verwandte":[]
+					}
+		 "herkunft":{"kurzbeschreibung":"",
+					 "geburtsort":"",
+					 "wohnort":""}
+					 
+					 
+		 "kurzbeschreibung":"",
+		 "aussehen": { "kurzbeschreibung":"",
+				"augenfarbe":"",
+				"haarfarbe":"",
+				"größe":""},
+		 "charakter":"",
+		 "hintergrundgeschichte":"",
+		 "verbindungen":[],
+		 "feinde":[]
+		}
+]
+}	
