@@ -702,3 +702,12 @@ input[type="text"] {
 		padding: 16px 16px;
 	}
 }
+
+.center {
+	margin: 0 auto;
+	width: 600px;
+}
+
+ul > ul {
+	margin-left: 2.5em;
+}

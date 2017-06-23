@@ -1,5 +1,71 @@
 {"helden":
 	[
+		{
+        	"name":"Enrico Montega",
+         	"geburtsdatum":"7. Tsa",
+        	"professionen":
+            		[
+									{
+               			"grundprofession":"Druide",
+               			"varianten": "Hehler"
+									},
+
+									{
+										"grundprofession":"Haendler",
+			  						"varianten":"Hehler"
+									},
+								],
+            "kultur":
+								{
+            			"grundkultur":"Horasreich",
+            			"varianten":
+										["Fernab der Zivilisation"],
+ 								},
+         		"rasse":
+								{
+									"grundrasse":"Mittellaender",
+            			"varianten":[],
+      					},
+         "titel":[],
+         "stand":"Entehrter und enterbter Adel",
+         "familie":
+				 	{
+            "familienstand":"ledig",
+            "verheiratet/liiert mit":"",
+            "eltern":["tot"],
+            "geschwister":["keine"],
+          	"verwandte",
+         	},
+         "herkunft":
+				 	{
+            "kurzbeschreibung":"Nachdem seine Familie getï¿½tet wurde, wurde er von Leuten, die sich als Horasritter zeigten, im tiefen Sï¿½den des Reiches an einen Druiden verkauft. Nun sinnt er auf Rache.",
+            "geburtsort":"Vinsalt",
+            "wohnort":"ueberall im Wald",
+         	},
+         "kurzbeschreibung":"Aufgewachsen ist er fernab der Zivilisation, das alte Lager seines Meisters ist heutzutage das Basislager einer Gruppe von Sklavenbefreiern, angefï¿½hrt von seiner begabteren Mitlernerin.",
+         "aussehen":
+				 	{
+            "kurzbeschreibung":"Gekleidet in schï¿½bigen, horasischen Klamotten zeigt Enrico sich mit stolzer Haltung und einem frï¿½hlichen Lï¿½cheln.",
+            "augenfarbe":"Dunkelbraun",
+            "haarfarbe":"Schwarz",
+            "groesse":"1,83",
+         	},
+         "charakter":"",
+         "hintergrundgeschichte":"Enrico scheint einer horasischen Adelsfamilie zu entstammen. Diese wurde allerdings getï¿½tet, als Enrico noch ein kleiner Junge war und er selbst wurde fernab der Hauptstadt im Sï¿½den des Reiches an einen Druiden verkauft. Dort erfuhr er eine so rohe und naturbezogene Behandlung, dass er seine Herkunft als Tagtraum abtat. Erst nach Ende seiner Ausbildung kehrte er in die Zivilisation zurï¿½ck und verdingte sich als Hehler. So erschlich er sich das Vertrauen des lokalen Barons. Als dieser jedoch im Rausch spï¿½t nach einem Bankett damit prahlte, einst sogar einen jungen Adeligen verkauft zu haben, enthï¿½llte Enrico in einem fehlgeschlagenen Attentat auf das Leben des Barons seine Natur als Druide, wonach er aus der Stadt gejagt wurde. Bestï¿½rkt darin, dass seine Erinnerungen an seinen Adel doch wahr sind, macht er sich nun auf die Suche nach seiner Vergangenheit. Sein einziger Hinweis ist es, dass die Leute, die ihn zum Baron brachten, gekleidet waren wie Horasritter. Vielleicht waren sie Demokraten? Wenn es so ist, dann ist es vielleicht auch an der Zeit, wieder mit seiner alten Druidenmitschï¿½lerin Kontakt aufzunehmen, die sich schon seit lï¿½ngerem fï¿½r Freiheit und Demokratie einsetzt...",
+
+	"verbindungen":["Seine Druidenmitschï¿½lerin und heutzutage Rebellenanfï¿½hrerin ist sein wichtigster Kontakt. Ansonsten kennt er besonders gut einen zwielichtigen Hï¿½ndler namens Ernesto, der zwischen Vinsalt und dem Sï¿½den des Reiches verkehrt und eine kleine Bande Ganoven in Vinsalt, die Kleidung stehlen und sie ï¿½ber Ernesto Enrico zukommen lassen, welche er dann verkauft."]       ],
+  "feinde":
+		[ "Die mysteriï¿½sen Leute, die seine Familie getï¿½tet haben.]
+      }
+
+
+
+
+
+
+
+
+
 		{"name":"",
 		 "geburtsdatum":"",
 		 "professionen":[{"grundprofession":"",
@@ -20,17 +86,17 @@
 		 "herkunft":{"kurzbeschreibung":"",
 					 "geburtsort":"",
 					 "wohnort":""}
-					 
-					 
+
+
 		 "kurzbeschreibung":"",
 		 "aussehen": { "kurzbeschreibung":"",
 				"augenfarbe":"",
 				"haarfarbe":"",
-				"größe":""},
+				"grï¿½ï¿½e":""},
 		 "charakter":"",
 		 "hintergrundgeschichte":"",
 		 "verbindungen":[],
 		 "feinde":[]
 		}
 ]
-}	
+}
