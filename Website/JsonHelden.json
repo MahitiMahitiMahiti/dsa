@@ -36,23 +36,23 @@
           		"verwandte":""
          		},
          "herkunft":{
-         		"kurzbeschreibung":"Nachdem seine Familie get�tet wurde, wurde er von Leuten, die sich als Horasritter zeigten, im tiefen S�den des Reiches an einen Druiden verkauft. Nun sinnt er auf Rache.",
+         		"kurzbeschreibung":"Nachdem seine Familie getötet wurde, wurde er von Leuten, die sich als Horasritter zeigten, im tiefen Süden des Reiches an einen Druiden verkauft. Nun sinnt er auf Rache.",
          		"geburtsort":"Vinsalt",
          		"wohnort":"ueberall im Wald"
          	    },
-         "kurzbeschreibung":"Aufgewachsen ist er fernab der Zivilisation, das alte Lager seines Meisters ist heutzutage das Basislager einer Gruppe von Sklavenbefreiern, angef�hrt von seiner begabteren Mitlernerin.",
+         "kurzbeschreibung":"Aufgewachsen ist er fernab der Zivilisation, das alte Lager seines Meisters ist heutzutage das Basislager einer Gruppe von Sklavenbefreiern, angeführt von seiner begabteren Mitlernerin.",
          "aussehen": {
-            		"kurzbeschreibung":"Gekleidet in sch�bigen, horasischen Klamotten zeigt Enrico sich mit stolzer Haltung und einem fr�hlichen L�cheln.",
+            		"kurzbeschreibung":"Gekleidet in schäbigen, horasischen Klamotten zeigt Enrico sich mit stolzer Haltung und einem fröhlichen Lächeln.",
             		"augenfarbe":"Dunkelbraun",
             		"haarfarbe":"Schwarz",
             		"groesse":"1,83"
          		},
          "charakter":"",
-         "hintergrundgeschichte":"Enrico scheint einer horasischen Adelsfamilie zu entstammen. Diese wurde allerdings get�tet, als Enrico noch ein kleiner Junge war und er selbst wurde fernab der Hauptstadt im S�den des Reiches an einen Druiden verkauft. Dort erfuhr er eine so rohe und naturbezogene Behandlung, dass er seine Herkunft als Tagtraum abtat. Erst nach Ende seiner Ausbildung kehrte er in die Zivilisation zur�ck und verdingte sich als Hehler. So erschlich er sich das Vertrauen des lokalen Barons. Als dieser jedoch im Rausch sp�t nach einem Bankett damit prahlte, einst sogar einen jungen Adeligen verkauft zu haben, enth�llte Enrico in einem fehlgeschlagenen Attentat auf das Leben des Barons seine Natur als Druide, wonach er aus der Stadt gejagt wurde. Best�rkt darin, dass seine Erinnerungen an seinen Adel doch wahr sind, macht er sich nun auf die Suche nach seiner Vergangenheit. Sein einziger Hinweis ist es, dass die Leute, die ihn zum Baron brachten, gekleidet waren wie Horasritter. Vielleicht waren sie Demokraten? Wenn es so ist, dann ist es vielleicht auch an der Zeit, wieder mit seiner alten Druidenmitsch�lerin Kontakt aufzunehmen, die sich schon seit l�ngerem f�r Freiheit und Demokratie einsetzt...",
+         "hintergrundgeschichte":"Enrico scheint einer horasischen Adelsfamilie zu entstammen. Diese wurde allerdings getötet, als Enrico noch ein kleiner Junge war und er selbst wurde fernab der Hauptstadt im Süden des Reiches an einen Druiden verkauft. Dort erfuhr er eine so rohe und naturbezogene Behandlung, dass er seine Herkunft als Tagtraum abtat. Erst nach Ende seiner Ausbildung kehrte er in die Zivilisation zur�ck und verdingte sich als Hehler. So erschlich er sich das Vertrauen des lokalen Barons. Als dieser jedoch im Rausch sp�t nach einem Bankett damit prahlte, einst sogar einen jungen Adeligen verkauft zu haben, enth�llte Enrico in einem fehlgeschlagenen Attentat auf das Leben des Barons seine Natur als Druide, wonach er aus der Stadt gejagt wurde. Best�rkt darin, dass seine Erinnerungen an seinen Adel doch wahr sind, macht er sich nun auf die Suche nach seiner Vergangenheit. Sein einziger Hinweis ist es, dass die Leute, die ihn zum Baron brachten, gekleidet waren wie Horasritter. Vielleicht waren sie Demokraten? Wenn es so ist, dann ist es vielleicht auch an der Zeit, wieder mit seiner alten Druidenmitschülerin Kontakt aufzunehmen, die sich schon seit längerem für Freiheit und Demokratie einsetzt...",
 
-	"verbindungen":["Seine Druidenmitsch�lerin und heutzutage Rebellenanf�hrerin ist sein wichtigster Kontakt. Ansonsten kennt er besonders gut einen zwielichtigen H�ndler namens Ernesto, der zwischen Vinsalt und dem S�den des Reiches verkehrt und eine kleine Bande Ganoven in Vinsalt, die Kleidung stehlen und sie �ber Ernesto Enrico zukommen lassen, welche er dann verkauft."],
+	"verbindungen":["Seine Druidenmitschülerin und heutzutage Rebellenanführerin ist sein wichtigster Kontakt. Ansonsten kennt er besonders gut einen zwielichtigen Händler namens Ernesto, der zwischen Vinsalt und dem Süden des Reiches verkehrt und eine kleine Bande Ganoven in Vinsalt, die Kleidung stehlen und sie über Ernesto Enrico zukommen lassen, welche er dann verkauft."],
   	"feinde":
-		[ "Die mysteri�sen Leute, die seine Familie get�tet haben."]
+		[ "Die mysteriösen Leute, die seine Familie getötet haben."]
       },
   	{
          "name":"Hassan ben Sahid",
@@ -146,7 +146,7 @@
             "familienstand":"ledig",
             "verheiratet/liiert mit":null,
             "eltern":[
-		
+
             ],
             "geschwister":[
             ],
@@ -169,18 +169,12 @@
          "charakter":"oberflächlich mürrisch, innerlich eigentlich recht aufgeschlossen",
          "hintergrundgeschichte":"Schon in seinen jungen Jahren erkannte dieser Zwerg schnell seine Begeisterung für Balisten. Diese sind nicht nur schöpfungen höchster Handwergskunst sondern sind auchnoch zur verteidigung gegen Schuppengetier nützlich! In seiner Begeisterung übte er sich früh im Umgang mit den mechanisch ähnlich aufgebauten Armbrüsten und begann seine Ausbildung als Belagerungswaffen-Schmied. Gerade als er erste Erfahrungen in seinem Beruf gesammelt hat, erhieltrn er und andere Zwerge eine Einladung eine Feste der Menschen zu befestigen. Der Ausenwelt recht aufgeschlossen, erkannte er die Gelegenheit sich einen Namen zu machen und gleichzeitig weitere Erfahrungen in seinem Handwerk sammeln zu können. Dass er sich hierdurch Wohlmöglich auch bessere Changsen beim Damenfolg erhofft muss wohl nicht erwähnt werden. Einige Monate später sollte er diese Entscheidung allerdings bitterlich bereuen. Nach volendeter Arbeit ist er auf der Baustelle eingeschlafen, als paar betrunkene Menschen an seinem reglosen Körper vorbeitorkelten. Betrunken und Unwissend wie sie waren hielten sie ihn für tot. Nun hatten sie gehört, dass Zwerge im feuer Bestattet werden und machten sich nun gleich ans Werk eine solche Feuerbestattung an dem schlafenden Zwerg durch zu führen. Einige Wochen später Befindet sich der selebe Zwerg nung auf dem Weg zu einem Alchemisten, der eine Tinktur besitzen soll, die seinen Einst so brächtigen Bart wieder herstellen können und die Narben verschwinden lassen Soll. Alle anderen im zusammenhang liegenden Details wie Begleitung, der Quest der Ablieferung einer geheimnissvollen Kiste und das Alchemisten der Magie viel zunah und somit suspekt sind, sind unbedeutende Einzelheiten.",
          "verbindungen":[
-		"händler, der zwischen Menschen-Fürst und Zwerge vermittelt hat", "Händler Ernesto in Havena"		
+		"händler, der zwischen Menschen-Fürst und Zwerge vermittelt hat", "Händler Ernesto in Havena"
          ],
          "feinde":[
-		"alle, die sich über sienen 'Bart' lustig machen", 
+		"alle, die sich über sienen 'Bart' lustig machen",
 		"die menschen die seinen Bart angezündet haben"
          ]
       }
   ]
 }
-
-
-
-
-
-
