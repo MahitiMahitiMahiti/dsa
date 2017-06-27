@@ -3,22 +3,22 @@
 	 {
 		"name": "Rebekka",
 	   	"rolle": "Spielleiter",
-	  	"spielstil": ["ambiente", "story", "erz‰hlerisch"],
+	  	"spielstil": ["ambiente", "story", "erz√§hlerisch"],
 		"spielt seit": " 2010",
 		"regelsysteme":["DSA 4.1", "DSA 4.0", "DSA 5", "DSA 3"],
 		"Lieblingsgenre": "als Spieler Intrigen, als Spielleiter Entdeckerkampagnen",
-		"Lieblingshelden": "als Spieler meist analysierende d¸stere Schwarzmagier und Nandusgeweihte, als Spielleiter gern tollpatschige, gutgl‰ubige Wirte und ¸berhebliche Horasier"
+		"Lieblingshelden": "als Spieler meist analysierende d√ºstere Schwarzmagier und Nandusgeweihte, als Spielleiter gern tollpatschige, gutgl√§ubige Wirte und √ºberhebliche Horasier"
 	},
-	{	
+	{
 		"name": "Ingo",
 	   	"rolle": "Spieler",
-	  	"spielstil": ["erz‰hlerisch"],
+	  	"spielstil": ["erz√§hlerisch"],
 		"spielt seit": "2017",
 		"regelsysteme":["Dsa4.1"],
-		"Lieblingsgenre": "weiﬂ ich noch nicht",
-		"Lieblingshelden": "weiﬂ ich noch nicht"
+		"Lieblingsgenre": "wei√ü ich noch nicht",
+		"Lieblingshelden": "wei√ü ich noch nicht"
 		},
-	{	
+	{
 		"name": "Marcel",
 	   	"rolle": "Spieler und Spielleiter",
 	  	"spielstil": ["Story"],
@@ -27,7 +27,7 @@
 		"Lieblingsgenre": "Entdecker und Horror",
 		"Lieblingshelden": "sehr stark und wenig intelligent"
 		},
-	{	
+	{
 		"name": "Philip",
 	   	"rolle": "",
 	  	"spielstil": [],
@@ -37,75 +37,4 @@
 		"Lieblingshelden": ""
 		}
 	]
-}
-
-JSON Standard 
-JSON Template 
-Process
-#13
-June 26th 2017, 9:56:34 am
-
-VALID JSON (RFC 4627)
-Formatted JSON Data
-{  
-   "Spieler":[  
-      {  
-         "name":"Rebekka",
-         "rolle":"Spielleiter",
-         "spielstil":[  
-            "ambiente",
-            "story",
-            "erz‰hlerisch"
-         ],
-         "spielt seit":" 2010",
-         "regelsysteme":[  
-            "DSA 4.1",
-            "DSA 4.0",
-            "DSA 5",
-            "DSA 3"
-         ],
-         "Lieblingsgenre":"als Spieler Intrigen, als Spielleiter Entdeckerkampagnen",
-         "Lieblingshelden":"als Spieler meist analysierende d¸stere Schwarzmagier und Nandusgeweihte, als Spielleiter gern tollpatschige, gutgl‰ubige Wirte und ¸berhebliche Horasier"
-      },
-      {  
-         "name":"Ingo",
-         "rolle":"Spieler",
-         "spielstil":[  
-            "erz‰hlerisch"
-         ],
-         "spielt seit":"2017",
-         "regelsysteme":[  
-            "Dsa4.1"
-         ],
-         "Lieblingsgenre":"weiﬂ ich noch nicht",
-         "Lieblingshelden":"weiﬂ ich noch nicht"
-      },
-      {  
-         "name":"Marcel",
-         "rolle":"Spieler und Spielleiter",
-         "spielstil":[  
-            "Story"
-         ],
-         "spielt seit":"2015",
-         "regelsysteme":[  
-            "DragonAge",
-            "TableTop",
-            "D&D 5e",
-            "DSA4.1"
-         ],
-         "Lieblingsgenre":"Entdecker und Horror",
-         "Lieblingshelden":"sehr stark und wenig intelligent"
-      },
-      {  
-         "name":"Philip",
-         "rolle":"",
-         "spielstil":[  
-
-         ],
-         "spielt seit":"",
-         "regelsysteme":"",
-         "Lieblingsgenre":"",
-         "Lieblingshelden":""
-      }
-   ]
 }
