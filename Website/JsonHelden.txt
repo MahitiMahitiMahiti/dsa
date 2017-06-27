@@ -1,102 +1,186 @@
-{"helden":
+﻿{"helden":
 	[
 		{
         	"name":"Enrico Montega",
          	"geburtsdatum":"7. Tsa",
         	"professionen":
             		[
-									{
+				{
                			"grundprofession":"Druide",
                			"varianten": "Hehler"
-									},
+				},
 
-									{
-										"grundprofession":"Haendler",
-			  						"varianten":"Hehler"
-									},
-								],
-            "kultur":
-								{
+				{
+				"grundprofession":"Haendler",
+			  	"varianten":"Hehler"
+				}
+			],
+		"kultur":
+				{
             			"grundkultur":"Horasreich",
-            			"varianten":
-										["Fernab der Zivilisation"],
- 								},
-         		"rasse":
-								{
-									"grundrasse":"Mittellaender",
-            			"varianten":[],
-      					},
-         "titel":[],
+            			"varianten":["Fernab der Zivilisation"]
+ 				},
+         	"rasse":
+				{
+				"grundrasse":"Mittellaender",
+            			"varianten":[]
+      				},
+         "titel":["signore"],
          "stand":"Entehrter und enterbter Adel",
          "familie":
-				 	{
-            "familienstand":"ledig",
-            "verheiratet/liiert mit":"",
-            "eltern":["tot"],
-            "geschwister":["keine"],
-          	"verwandte",
-         	},
-         "herkunft":
-				 	{
-            "kurzbeschreibung":"Nachdem seine Familie get�tet wurde, wurde er von Leuten, die sich als Horasritter zeigten, im tiefen S�den des Reiches an einen Druiden verkauft. Nun sinnt er auf Rache.",
-            "geburtsort":"Vinsalt",
-            "wohnort":"ueberall im Wald",
-         	},
+		 	{
+            		"familienstand":"ledig",
+            		"verheiratet/liiert mit":"",
+            		"eltern":["tot"],
+            		"geschwister":["keine"],
+          		"verwandte":""
+         		},
+         "herkunft":{
+         		"kurzbeschreibung":"Nachdem seine Familie get�tet wurde, wurde er von Leuten, die sich als Horasritter zeigten, im tiefen S�den des Reiches an einen Druiden verkauft. Nun sinnt er auf Rache.",
+         		"geburtsort":"Vinsalt",
+         		"wohnort":"ueberall im Wald"
+         	    },
          "kurzbeschreibung":"Aufgewachsen ist er fernab der Zivilisation, das alte Lager seines Meisters ist heutzutage das Basislager einer Gruppe von Sklavenbefreiern, angef�hrt von seiner begabteren Mitlernerin.",
-         "aussehen":
-				 	{
-            "kurzbeschreibung":"Gekleidet in sch�bigen, horasischen Klamotten zeigt Enrico sich mit stolzer Haltung und einem fr�hlichen L�cheln.",
-            "augenfarbe":"Dunkelbraun",
-            "haarfarbe":"Schwarz",
-            "groesse":"1,83",
-         	},
+         "aussehen": {
+            		"kurzbeschreibung":"Gekleidet in sch�bigen, horasischen Klamotten zeigt Enrico sich mit stolzer Haltung und einem fr�hlichen L�cheln.",
+            		"augenfarbe":"Dunkelbraun",
+            		"haarfarbe":"Schwarz",
+            		"groesse":"1,83"
+         		},
          "charakter":"",
          "hintergrundgeschichte":"Enrico scheint einer horasischen Adelsfamilie zu entstammen. Diese wurde allerdings get�tet, als Enrico noch ein kleiner Junge war und er selbst wurde fernab der Hauptstadt im S�den des Reiches an einen Druiden verkauft. Dort erfuhr er eine so rohe und naturbezogene Behandlung, dass er seine Herkunft als Tagtraum abtat. Erst nach Ende seiner Ausbildung kehrte er in die Zivilisation zur�ck und verdingte sich als Hehler. So erschlich er sich das Vertrauen des lokalen Barons. Als dieser jedoch im Rausch sp�t nach einem Bankett damit prahlte, einst sogar einen jungen Adeligen verkauft zu haben, enth�llte Enrico in einem fehlgeschlagenen Attentat auf das Leben des Barons seine Natur als Druide, wonach er aus der Stadt gejagt wurde. Best�rkt darin, dass seine Erinnerungen an seinen Adel doch wahr sind, macht er sich nun auf die Suche nach seiner Vergangenheit. Sein einziger Hinweis ist es, dass die Leute, die ihn zum Baron brachten, gekleidet waren wie Horasritter. Vielleicht waren sie Demokraten? Wenn es so ist, dann ist es vielleicht auch an der Zeit, wieder mit seiner alten Druidenmitsch�lerin Kontakt aufzunehmen, die sich schon seit l�ngerem f�r Freiheit und Demokratie einsetzt...",
 
-	"verbindungen":["Seine Druidenmitsch�lerin und heutzutage Rebellenanf�hrerin ist sein wichtigster Kontakt. Ansonsten kennt er besonders gut einen zwielichtigen H�ndler namens Ernesto, der zwischen Vinsalt und dem S�den des Reiches verkehrt und eine kleine Bande Ganoven in Vinsalt, die Kleidung stehlen und sie �ber Ernesto Enrico zukommen lassen, welche er dann verkauft."]       ],
-  "feinde":
-		[ "Die mysteri�sen Leute, die seine Familie get�tet haben.]
+	"verbindungen":["Seine Druidenmitsch�lerin und heutzutage Rebellenanf�hrerin ist sein wichtigster Kontakt. Ansonsten kennt er besonders gut einen zwielichtigen H�ndler namens Ernesto, der zwischen Vinsalt und dem S�den des Reiches verkehrt und eine kleine Bande Ganoven in Vinsalt, die Kleidung stehlen und sie �ber Ernesto Enrico zukommen lassen, welche er dann verkauft."],
+  	"feinde":
+		[ "Die mysteri�sen Leute, die seine Familie get�tet haben."]
+      },
+  	{
+         "name":"Hassan ben Sahid",
+         "geburtsdatum":"20. Phex 992 BF",
+         "professionen":[
+            {
+               "grundprofession":"Gladiator",
+               "varianten":[
+					"Fasarer Gladiator"
+               ]
+            }
+         ],
+         "kultur":{
+            "grundkultur":"Tulamidische Stadtstaaaten",
+            "varianten":[
+
+            ]
+         },
+         "rasse":{
+            "grundrasse":"Tulamide",
+            "varianten":[
+
+            ]
+         },
+         "titel":[
+
+         ],
+         "stand":"Unfrei",
+         "familie":{
+            "familienstand":"Ledig",
+            "verheiratet/liiert mit":"",
+            "eltern":[ "tot"
+
+            ],
+            "geschwister":[
+
+            ],
+            "verwandte":[
+
+            ]
+         },
+         "herkunft":{
+            "kurzbeschreibung":"Sklave aus Fasar",
+            "geburtsort":"Fasar",
+            "wohnort":""
+         },
+         "kurzbeschreibung":"Grobschlächtig und nicht sonderlich intelligent.",
+         "aussehen":{
+            "kurzbeschreibung":"Hochgewachsen, muskulös, lange Haare zum Pferdeschwanz gebunden, Lange Narben im Gesicht, Tribal-Tatöwierung von Hals an bis zur linken Hand",
+            "augenfarbe":"braun",
+            "haarfarbe":"schwarz",
+            "größe":"215cm"
+         },
+         "charakter":"Eingebildet, überzeugt von seiner Stärke, naiv und ungebildet",
+         "hintergrundgeschichte":"Als Waisenkind in die Sklaverei verkauft, wo er sich als Gladiator hochkämpfte. Sein Besitzer versprach ihm, ihn zu einem freien Mann zu machen, wenn er den Mörder seiner Frau und Tochter findet und tötet.",
+         "verbindungen":["Händler Ernesto in Havena"
+
+         ],
+         "feinde":[
+
+         ]
+      },
+{
+         "name":"",
+         "geburtsdatum":"",
+         "professionen":[
+            {
+               "grundprofession":"Mechanikus",
+               "varianten":[
+			"Belagerungswaffen"
+               ]
+            }
+         ],
+         "kultur":{
+            "grundkultur":"Ambosszwerg",
+            "varianten":[
+
+            ]
+         },
+         "rasse":{
+            "grundrasse":"Zweg",
+            "varianten":[
+
+            ]
+         },
+         "titel":[
+
+         ],
+         "stand":"",
+         "familie":{
+            "familienstand":"ledig",
+            "verheiratet/liiert mit":null,
+            "eltern":[
+		
+            ],
+            "geschwister":[
+            ],
+            "verwandte":[
+
+            ]
+         },
+         "herkunft":{
+            "kurzbeschreibung":"",
+            "geburtsort":"",
+            "wohnort":""
+         },
+         "kurzbeschreibung":"Ein Zwerg, in dessen Gesicht statt eines Prächtigen Bartes nur ein paar Brantnarben zu sehen sind. Wenn er auch auf dem ersten Blick recht mürrisch wirkt, zeigt sich eine ursprünglich für Zwerge recht aufgeschlossene und fröhliche art schnell, wenn er eine Baliste sieht. Da gelegenheiten für den umgang mit solchen Belagerungswaffen recht selten sind, gibt er sich zu weilen auch mit einer Armbrust (seinem Eisenwalder) zufrieden. In seinem Bestreben mehr kontakt mit Balisten zu pflegen, übt er sich in der Kunst der Belagerungsfaffen-Herstellung. Von einem seiner Kammeraden wird er durch ein Missverständniss auch 'Göndir' genannt.",
+         "aussehen":{
+            "kurzbeschreibung":"Durch und durch ein typischer Zwerg. Mit der Fatalen ausnahme, dass statt eines Bartes, Brantnarben sein gesicht zieren.",
+            "augenfarbe":"",
+            "haarfarbe":"",
+            "größe":""
+         },
+         "charakter":"oberflächlich mürrisch, innerlich eigentlich recht aufgeschlossen",
+         "hintergrundgeschichte":"Schon in seinen jungen Jahren erkannte dieser Zwerg schnell seine Begeisterung für Balisten. Diese sind nicht nur schöpfungen höchster Handwergskunst sondern sind auchnoch zur verteidigung gegen Schuppengetier nützlich! In seiner Begeisterung übte er sich früh im Umgang mit den mechanisch ähnlich aufgebauten Armbrüsten und begann seine Ausbildung als Belagerungswaffen-Schmied. Gerade als er erste Erfahrungen in seinem Beruf gesammelt hat, erhieltrn er und andere Zwerge eine Einladung eine Feste der Menschen zu befestigen. Der Ausenwelt recht aufgeschlossen, erkannte er die Gelegenheit sich einen Namen zu machen und gleichzeitig weitere Erfahrungen in seinem Handwerk sammeln zu können. Dass er sich hierdurch Wohlmöglich auch bessere Changsen beim Damenfolg erhofft muss wohl nicht erwähnt werden. Einige Monate später sollte er diese Entscheidung allerdings bitterlich bereuen. Nach volendeter Arbeit ist er auf der Baustelle eingeschlafen, als paar betrunkene Menschen an seinem reglosen Körper vorbeitorkelten. Betrunken und Unwissend wie sie waren hielten sie ihn für tot. Nun hatten sie gehört, dass Zwerge im feuer Bestattet werden und machten sich nun gleich ans Werk eine solche Feuerbestattung an dem schlafenden Zwerg durch zu führen. Einige Wochen später Befindet sich der selebe Zwerg nung auf dem Weg zu einem Alchemisten, der eine Tinktur besitzen soll, die seinen Einst so brächtigen Bart wieder herstellen können und die Narben verschwinden lassen Soll. Alle anderen im zusammenhang liegenden Details wie Begleitung, der Quest der Ablieferung einer geheimnissvollen Kiste und das Alchemisten der Magie viel zunah und somit suspekt sind, sind unbedeutende Einzelheiten.",
+         "verbindungen":[
+		"händler, der zwischen Menschen-Fürst und Zwerge vermittelt hat", "Händler Ernesto in Havena"		
+         ],
+         "feinde":[
+		"alle, die sich über sienen 'Bart' lustig machen", 
+		"die menschen die seinen Bart angezündet haben"
+         ]
       }
-
-
-
-
-
-
-
-
-
-		{"name":"",
-		 "geburtsdatum":"",
-		 "professionen":[{"grundprofession":"",
-				  "varianten":[]
-				 }],
-		 "kultur":{"grundkultur":"",
-			   "varianten":[]},
-		 "rasse":{"grundrasse":"",
-			  "varianten":[]},
-		 "titel":[],
-		 "stand":"",
-		 "familie":{"familienstand":"",
-					"verheiratet/liiert mit":"",
-					"eltern": [],
-					"geschwister":[],
-					"verwandte":[]
-					}
-		 "herkunft":{"kurzbeschreibung":"",
-					 "geburtsort":"",
-					 "wohnort":""}
-
-
-		 "kurzbeschreibung":"",
-		 "aussehen": { "kurzbeschreibung":"",
-				"augenfarbe":"",
-				"haarfarbe":"",
-				"gr��e":""},
-		 "charakter":"",
-		 "hintergrundgeschichte":"",
-		 "verbindungen":[],
-		 "feinde":[]
-		}
-]
+  ]
 }
+
+
+
+
+
+
