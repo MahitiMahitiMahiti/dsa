@@ -711,3 +711,6 @@ input[type="text"] {
 ul > ul {
 	margin-left: 2.5em;
 }
+dd > ul {
+	margin-left: 2.5em;
+}
