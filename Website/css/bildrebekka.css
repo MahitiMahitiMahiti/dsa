@@ -1,0 +1,13 @@
+/* Bildergroeße */
+.img-responsivep,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: block;
+  /* Hier bitte Bildgröße ergänzen */
+  max-width: 380px;
+  height: 574px;
+  margin-left: auto;
+  margin-right: auto;
+}
