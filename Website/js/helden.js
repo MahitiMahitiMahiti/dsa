@@ -7,8 +7,12 @@ function loadJsonFromPath(path){
 				var hintergrundgeschichte = data.hintergrundgeschichte;
 				var verbindungen = data.verbindungen;
 				var feinde = data.feinde;				
+				var augenfarbe = data.aussehen.augenfarbe;
+				var haarfarbe = data.aussehen.haarfarbe;
 			    $('#kurzbeschreibung').text(kurzbeschreibung);
 				$('#aussehen').text(aussehen);
+				$('#augenfarbe').text(augenfarbe);
+				$('#haarfarbe').text(haarfarbe);
 				$('#charakter').text(charakter);
 				$('#hintergrund').text(hintergrundgeschichte);
 				$('#verbindungen').text(verbindungen);

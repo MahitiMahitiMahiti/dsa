@@ -1,4 +1,4 @@
-{
+ï»¿{
          "name":"Hassan ben Sahid",
          "geburtsdatum":"20. Phex 992 BF",
          "professionen":[
@@ -43,16 +43,16 @@
             "geburtsort":"Fasar",
             "wohnort":""
          },
-         "kurzbeschreibung":"Grobschlächtig und nicht sonderlich intelligent.",
+         "kurzbeschreibung":"GrobschlÃ¤chtig und nicht sonderlich intelligent.",
          "aussehen":{
-            "kurzbeschreibung":"Hochgewachsen, muskulös, lange Haare zum Pferdeschwanz gebunden, Lange Narben im Gesicht, Tribal-Tatöwierung von Hals an bis zur linken Hand",
+            "kurzbeschreibung":"Hochgewachsen, muskulÃ¶s, lange Haare zum Pferdeschwanz gebunden, Lange Narben im Gesicht, Tribal-TÃ¤towierung von Hals an bis zur linken Hand",
             "augenfarbe":"braun",
             "haarfarbe":"schwarz",
-            "größe":"215cm"
+            "grÃ¶ÃŸe":"215cm"
          },
-         "charakter":"Eingebildet, überzeugt von seiner Stärke, naiv und ungebildet",
-         "hintergrundgeschichte":"Als Waisenkind in die Sklaverei verkauft, wo er sich als Gladiator hochkämpfte. Sein Besitzer versprach ihm, ihn zu einem freien Mann zu machen, wenn er den Mörder seiner Frau und Tochter findet und tötet.",
-         "verbindungen":["Händler Ernesto in Havena"
+         "charakter":"Eingebildet, Ã¼berzeugt von seiner StÃ¤rke, naiv und ungebildet",
+         "hintergrundgeschichte":"Als Waisenkind in die Sklaverei verkauft, wo er sich als Gladiator hochkÃ¤mpfte. Sein Besitzer versprach ihm, ihn zu einem freien Mann zu machen, wenn er den MÃ¶rder seiner Frau und Tochter findet und tÃ¶tet.",
+         "verbindungen":["HÃ¤ndler Ernesto in Havena"
 
          ],
          "feinde":[
