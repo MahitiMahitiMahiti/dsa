@@ -1,0 +1,61 @@
+{
+         "name":"Hassan ben Sahid",
+         "geburtsdatum":"20. Phex 992 BF",
+         "professionen":[
+            {
+               "grundprofession":"Gladiator",
+               "varianten":[
+					"Fasarer Gladiator"
+               ]
+            }
+         ],
+         "kultur":{
+            "grundkultur":"Tulamidische Stadtstaaaten",
+            "varianten":[
+
+            ]
+         },
+         "rasse":{
+            "grundrasse":"Tulamide",
+            "varianten":[
+
+            ]
+         },
+         "titel":[
+
+         ],
+         "stand":"Unfrei",
+         "familie":{
+            "familienstand":"Ledig",
+            "verheiratet/liiert mit":"",
+            "eltern":[ "tot"
+
+            ],
+            "geschwister":[
+
+            ],
+            "verwandte":[
+
+            ]
+         },
+         "herkunft":{
+            "kurzbeschreibung":"Sklave aus Fasar",
+            "geburtsort":"Fasar",
+            "wohnort":""
+         },
+         "kurzbeschreibung":"Grobschlächtig und nicht sonderlich intelligent.",
+         "aussehen":{
+            "kurzbeschreibung":"Hochgewachsen, muskulös, lange Haare zum Pferdeschwanz gebunden, Lange Narben im Gesicht, Tribal-Tatöwierung von Hals an bis zur linken Hand",
+            "augenfarbe":"braun",
+            "haarfarbe":"schwarz",
+            "größe":"215cm"
+         },
+         "charakter":"Eingebildet, überzeugt von seiner Stärke, naiv und ungebildet",
+         "hintergrundgeschichte":"Als Waisenkind in die Sklaverei verkauft, wo er sich als Gladiator hochkämpfte. Sein Besitzer versprach ihm, ihn zu einem freien Mann zu machen, wenn er den Mörder seiner Frau und Tochter findet und tötet.",
+         "verbindungen":["Händler Ernesto in Havena"
+
+         ],
+         "feinde":[
+
+         ]
+      }

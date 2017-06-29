@@ -5,7 +5,7 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
 <title>Hassan|Helden DSA Clan</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,7 +22,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <script src="js/jquery-1.11.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
-
+<script src="js/helden.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			loadJsonFromPath('JsonHassan.json');
+		});
+	</script>
 </head>
 <body>
 
@@ -59,6 +64,38 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<label class="line"></label>
 		<p class="top-p">"Ich hau nochmal drauf, sicher ist sicher."</p>
 	</div>
+		<div class="container center">
+	<dl>
+	<dt>Kurzbeschreibung</dt>
+	<dd id="kurzbeschreibung"></dd>
+	<dt>Aussehen</dt>
+	<dd id="aussehen"> 
+		<ul>
+		<li>
+			<dt>Augenfarbe</dt>
+			<dd id="augenfarbe"></dd>
+		</li>
+		<li>
+			<dt>Haarfarbe</dt>
+			<dd id="haarfarbe"></dd>
+		</li>
+		<li>
+			<dt>Größe</dt>
+			<dd id="groesse"></dd>
+		</li>
+		</ul>
+	</dd>
+	<dt>Charakter</dt>
+	<dd id="charakter"></dd>
+	<dt>Hintergrundgeschichte</dt>
+	<dd id="hintergrund"></dd>
+	<dt>Verbindungen</dt>
+	<dd id="verbindungen"></dd>
+	<dt>Feinde</dt>
+	<dd id="feinde"></dd>
+	</dl>
+	</div>
+</div>
 <!-- /about -->
 
 <div class="footer">
