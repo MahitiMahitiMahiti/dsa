@@ -5,8 +5,8 @@
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 373px;
-  height: 372px;
+  max-width: 417px;
+  height: 417px;
   margin-left: auto;
   margin-right: auto;
 }
