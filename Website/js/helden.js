@@ -9,6 +9,7 @@ function loadJsonFromPath(path){
 				var feinde = data.feinde;				
 				var augenfarbe = data.aussehen.augenfarbe;
 				var haarfarbe = data.aussehen.haarfarbe;
+				var geburtsdatum = data.geburtsdatum;
 			    $('#kurzbeschreibung').text(kurzbeschreibung);
 				$('#aussehen').text(aussehen);
 				$('#augenfarbe').text(augenfarbe);
@@ -17,6 +18,7 @@ function loadJsonFromPath(path){
 				$('#hintergrund').text(hintergrundgeschichte);
 				$('#verbindungen').text(verbindungen);
 				$('#feinde').text(feinde);
+				$('#geburtsdatum').text(geburtsdatum);
 				// hier können nur platzhalter im HTML (Tags mit IDs etc.) mit Leben gefüllt werden
 	});
 }
