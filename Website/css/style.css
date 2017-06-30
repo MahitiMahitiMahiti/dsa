@@ -720,6 +720,10 @@ dd > ul {
 	width: 200px;
 }
 
+.centerad {
+	margin: 0 auto;
+	width: 290px;
+}
 .centers {
 	margin: 0 auto;
 	width: 400px;
