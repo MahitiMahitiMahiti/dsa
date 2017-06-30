@@ -1,7 +1,7 @@
 ﻿{	"name": "Philip",
 	   	"rolle": "Spieler und Spielleiter",
 	  	"spielstil": ["Story", "erzählerisch", "charakterorientiert"],
-		"spielt seit": "2003",
+		"spieltseit": " 2003",
 		"regelsysteme":["Dsa 4.1", "Shadowrun","fate", "Unknown Armies","Hollow Earth Expedition"],
 		"Lieblingsgenre": ["Detektivabenteuer", "Horror", "Urban Fantasy", "Sandbox", "Cineastisch", "realistische Gewalt"],
 		"Lieblingshelden": "das Face der Gruppe (Charisma-Orientiert)oder fish out of the water"
