@@ -31,7 +31,7 @@
             		"verheiratet/liiert mit":"",
             		"eltern":["tot"],
             		"geschwister":["keine"],
-          		"verwandte":""
+          		"verwandte":"keine Angaben"
          		},
          "herkunft":{
          		"kurzbeschreibung":"Nachdem seine Familie getötet wurde, wurde er von Leuten, die sich als Horasritter zeigten, im tiefen Süden des Reiches an einen Druiden verkauft. Nun sinnt er auf Rache.",
@@ -43,9 +43,9 @@
             		"kurzbeschreibung":"Gekleidet in schäbigen, horasischen Klamotten zeigt Enrico sich mit stolzer Haltung und einem fröhlichen Lächeln.",
             		"augenfarbe":"Dunkelbraun",
             		"haarfarbe":"Schwarz",
-            		"groesse":"1,83"
+            		"groesse":"1,83 Schritt"
          		},
-         "charakter":null,
+         "charakter":"keine Angaben",
          "hintergrundgeschichte":"Enrico scheint einer horasischen Adelsfamilie zu entstammen. Diese wurde allerdings getötet, als Enrico noch ein kleiner Junge war und er selbst wurde fernab der Hauptstadt im Süden des Reiches an einen Druiden verkauft. Dort erfuhr er eine so rohe und naturbezogene Behandlung, dass er seine Herkunft als Tagtraum abtat. Erst nach Ende seiner Ausbildung kehrte er in die Zivilisation zur?ck und verdingte sich als Hehler. So erschlich er sich das Vertrauen des lokalen Barons. Als dieser jedoch im Rausch sp?t nach einem Bankett damit prahlte, einst sogar einen jungen Adeligen verkauft zu haben, enth?llte Enrico in einem fehlgeschlagenen Attentat auf das Leben des Barons seine Natur als Druide, wonach er aus der Stadt gejagt wurde. Best?rkt darin, dass seine Erinnerungen an seinen Adel doch wahr sind, macht er sich nun auf die Suche nach seiner Vergangenheit. Sein einziger Hinweis ist es, dass die Leute, die ihn zum Baron brachten, gekleidet waren wie Horasritter. Vielleicht waren sie Demokraten? Wenn es so ist, dann ist es vielleicht auch an der Zeit, wieder mit seiner alten Druidenmitschülerin Kontakt aufzunehmen, die sich schon seit längerem für Freiheit und Demokratie einsetzt...",
 
 	"verbindungen":["Seine Druidenmitschülerin und heutzutage Rebellenanführerin ist sein wichtigster Kontakt. Ansonsten kennt er besonders gut einen zwielichtigen Händler namens Ernesto, der zwischen Vinsalt und dem Süden des Reiches verkehrt und eine kleine Bande Ganoven in Vinsalt, die Kleidung stehlen und sie über Ernesto Enrico zukommen lassen, welche er dann verkauft."],

@@ -21,13 +21,13 @@
 
             ]
          },
-         "titel":[
+         "titel":[ "keiner"
 
          ],
-         "stand":"",
+         "stand":"frei",
          "familie":{
             "familienstand":"ledig",
-            "verheiratet/liiert mit":null,
+            "verheiratet/liiert mit": "keine Angaben",
             "eltern":[ "tot"
 
             ],
@@ -39,15 +39,15 @@
          },
          "herkunft":{
             "kurzbeschreibung":"",
-            "geburtsort":"",
-            "wohnort":""
+            "geburtsort":"unbekannt",
+            "wohnort":"keiner"
          },
          "kurzbeschreibung":"Ein Zwerg, in dessen Gesicht an Stelle eines prächtigen Bartes nur ein paar Brantnarben zu sehen sind. Wenn er auch auf dem ersten Blick recht mürrisch wirkt, zeigt sich eine ursprünglich für Zwerge recht aufgeschlossene und fröhliche art schnell, wenn er eine Balliste sieht. Da Gelegenheiten für den Umgang mit solchen Belagerungswaffen recht selten sind, gibt er sich zuweilen auch mit einer Armbrust (seinem Eisenwalder) zufrieden. In seinem Bestreben mehr Kontakt mit Ballisten zu pflegen, übt er sich in der Kunst der Belagerungswaffen-Herstellung. Von einem seiner Kameraden wird er wegen eines Missverständnisses auch 'Göndir' genannt.",
          "aussehen":{
             "kurzbeschreibung":"Durch und durch ein typischer Zwerg. Mit der fatalen Ausnahme, dass statt eines Bartes, Brantnarben sein Gesicht zieren.",
-            "augenfarbe":"",
-            "haarfarbe":"",
-            "größe":""
+            "augenfarbe":"Braun",
+            "haarfarbe":"Schwarz",
+            "groesse":"1,32 Schritt"
          },
          "charakter":"oberflächlich mürrisch, innerlich eigentlich recht aufgeschlossen",
          "hintergrundgeschichte":"Schon in seinen jungen Jahren erkannte dieser Zwerg schnell seine Begeisterung für Ballisten. Diese sind nicht nur Schöpfungen höchster Handwergskunst sondern sind auch zur Verteidigung gegen Schuppengetier nützlich! In seiner Begeisterung übte er sich früh im Umgang mit den mechanisch ähnlich aufgebauten Armbruste und begann seine Ausbildung als Konstruktör für Belagerungswaffen. Gerade als er erste Erfahrungen in seinem Beruf gesammelt hat, erhieltrn er und andere Zwerge eine Einladung eine Feste der Menschen zu befestigen. Der Außenwelt recht aufgeschlossen, erkannte er die Gelegenheit sich einen Namen zu machen und gleichzeitig weitere Erfahrungen in seinem Handwerk sammeln zu können. Dass er sich hierdurch wohlmöglich auch bessere Chancen beim Damenvolk erhofft muss wohl nicht erwähnt werden. Einige Monate später sollte er diese Entscheidung allerdings bitterlich bereuen. Nach vollendeter Arbeit ist er auf der Baustelle eingeschlafen, als ein paar betrunkene Menschen an seinem reglosen Körper vorbei torkelten. Betrunken und unwissend wie sie waren, hielten sie ihn für tot. Nun hatten sie gehört, dass Zwerge im Feuer bestattet werden und machten sich nun gleich ans Werk eine solche Feuerbestattung an dem schlafenden Zwerg durchzuführen. Einige Wochen später befindet sich der selbe Zwerg nun auf dem Weg zu einem Alchemisten, der eine Tinktur besitzen soll, die seinen einst so prächtigen Bart wieder herstellen können und die Narben verschwinden lassen soll. Alle anderen im Zusammenhang liegenden Details wie Begleitung, der Quest der Ablieferung einer geheimnissvollen Kiste und dass Alchemisten der Magie viel zu nah und somit suspekt sind, sind unbedeutende Einzelheiten.",

@@ -21,7 +21,7 @@
 
             ]
          },
-         "titel":[
+         "titel":[ "keiner"
 
          ],
          "stand":"Unfrei",
@@ -31,31 +31,31 @@
             "eltern":[ "tot"
 
             ],
-            "geschwister":[
+            "geschwister":[ "unbekannt"
 
             ],
-            "verwandte":[
+            "verwandte":[ "unbekannt"
 
             ]
          },
          "herkunft":{
             "kurzbeschreibung":"Sklave aus Fasar",
             "geburtsort":"Fasar",
-            "wohnort":""
+            "wohnort":"keiner"
          },
          "kurzbeschreibung":"Grobschlächtig und nicht sonderlich intelligent.",
          "aussehen":{
             "kurzbeschreibung":"Hochgewachsen, muskulös, lange Haare zum Pferdeschwanz gebunden, Lange Narben im Gesicht, Tribal-Tätowierung von Hals an bis zur linken Hand",
             "augenfarbe":"braun",
             "haarfarbe":"schwarz",
-            "größe":"215cm"
+            "groesse":"2,15 Schritt"
          },
          "charakter":"Eingebildet, überzeugt von seiner Stärke, naiv und ungebildet",
          "hintergrundgeschichte":"Als Waisenkind in die Sklaverei verkauft, wo er sich als Gladiator hochkämpfte. Sein Besitzer versprach ihm, ihn zu einem freien Mann zu machen, wenn er den Mörder seiner Frau und Tochter findet und tötet.",
          "verbindungen":["Händler Ernesto in Havena"
 
          ],
-         "feinde":[
+         "feinde":[ "unbekannt"
 
          ]
       }

@@ -9,11 +9,13 @@ function loadJsonFromPath(path){
 				var feinde = data.feinde;				
 				var augenfarbe = data.aussehen.augenfarbe;
 				var haarfarbe = data.aussehen.haarfarbe;
+				var groesse = data.aussehen.groesse;
 				var geburtsdatum = data.geburtsdatum;
 			    $('#kurzbeschreibung').text(kurzbeschreibung);
 				$('#aussehen').text(aussehen);
 				$('#augenfarbe').text(augenfarbe);
 				$('#haarfarbe').text(haarfarbe);
+				$('#groesse').text(groesse);
 				$('#charakter').text(charakter);
 				$('#hintergrund').text(hintergrundgeschichte);
 				$('#verbindungen').text(verbindungen);
