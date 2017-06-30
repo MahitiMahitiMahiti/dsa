@@ -714,3 +714,13 @@ ul > ul {
 dd > ul {
 	margin-left: 2.5em;
 }
+
+.centera {
+	margin: 0 auto;
+	width: 200px;
+}
+
+.centers {
+	margin: 0 auto;
+	width: 400px;
+}
