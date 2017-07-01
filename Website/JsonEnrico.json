@@ -13,10 +13,12 @@
 			  	"varianten":"Hehler"
 				}
 			],
-		"kultur":
+		    "kultur":
 				{
             			"grundkultur":"Horasreich",
-            			"varianten":["Fernab der Zivilisation"]
+            			"varianten":[
+                    "Fernab der Zivilisation"
+                ]
  				},
          	"rasse":
 				{
@@ -28,7 +30,7 @@
          "familie":
 		 	{
             		"familienstand":"ledig",
-            		"verheiratet/liiert mit":"",
+            		"verheiratet":"",
             		"eltern":["tot"],
             		"geschwister":["keine"],
           		"verwandte":"keine Angaben"

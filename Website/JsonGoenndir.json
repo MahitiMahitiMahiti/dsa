@@ -5,7 +5,7 @@
             {
                "grundprofession":"Mechanikus",
                "varianten":[
-			"Belagerungswaffen"
+			              "Belagerungswaffen"
                ]
             }
          ],
@@ -16,7 +16,7 @@
             ]
          },
          "rasse":{
-            "grundrasse":"Zweg",
+            "grundrasse":"Zwerg",
             "varianten":[
 
             ]
@@ -27,7 +27,7 @@
          "stand":"frei",
          "familie":{
             "familienstand":"ledig",
-            "verheiratet/liiert mit": "keine Angaben",
+            "verheiratet": "keine Angaben",
             "eltern":[ "tot"
 
             ],

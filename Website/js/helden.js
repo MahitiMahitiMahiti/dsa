@@ -11,16 +11,16 @@ function loadJsonFromPath(path){
 				var haarfarbe = data.aussehen.haarfarbe;
 				var groesse = data.aussehen.groesse;
 				var geburtsdatum = data.geburtsdatum;
-				var grundprofession = data.professionen.grundprofession;
-				var professionsvarianten = data.professionen.varianten;
+				var grundprofession = data.professionen[0].grundprofession;
+				var professionsvarianten = data.professionen[0].varianten;
 				var grundkultur = data.kultur.grundkultur;
-				var kulturvarianten = data.kultur.varianten;
+				var kulturvarianten = data.kultur.varianten[0];
 				var grundrasse = data.rasse.grundrasse;
 				var rassenvarianten = data.rasse.varianten;
 				var titel = data.titel;
 				var stand = data.stand;
 				var familienstand = data.familie.familienstand;
-				// var verheiratet = data.familie.verheiratet/liiert mit;   funktioniert so nicht
+				var verheiratet = data.familie.verheiratet;
 				var eltern = data.familie.eltern;
 				var geschwister = data.familie.geschwister;
 				var verwandte = data.familie.verwandte;
@@ -46,7 +46,7 @@ function loadJsonFromPath(path){
 				$('#titel').text(titel);
 				$('#stand').text(stand);
 				$('#familienstand').text(familienstand);
-				// $('#verheiratet').text(verheiratet);
+				$('#verheiratet').text(verheiratet);
 				$('#eltern').text(eltern);
 				$('#geschwister').text(geschwister);
 				$('#verwandte').text(verwandte);
