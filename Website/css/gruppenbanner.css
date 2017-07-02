@@ -5,23 +5,7 @@
 	min-height:690px;
 	padding-top:50px;
 }
-.banner-text-agileinfo {
-       background: hsla(14, 100%, 57%, 0.75);
-    padding: 30px;
-    margin: 14% 0 0 52%;
-    width: 30%;
-}
-.banner-text-agileinfo  h2{
-	color:#fff;
-	font-size:30px;
-	text-align:left;
-	margin-bottom:20px;
-}
-.banner-text-agileinfo  p{
-	font-size:14px;
-	color:#eee;
-	line-height:28px;
-}
+
 /*-- /banner --*/
 
 @media(max-width:800px){
